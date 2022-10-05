@@ -1,4 +1,5 @@
 # Simple-RAT
+A RAT with a few functions
 
 ## ⚠ Disclaimer ⚠ 
 
