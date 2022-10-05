@@ -1,11 +1,11 @@
 # Simple-RAT
-A RAT with a few functions
+A RAT with a few functions <br />
 ![Simple Rat](https://user-images.githubusercontent.com/113242324/194132365-a401e28b-d5ff-4fb9-af88-d1164f1a09b7.png)
 
 ## ⚠ Disclaimer ⚠ 
 
-This program is for educational purposes only.<br />
-How you use this program is your responsibility.<br />
+This program is for educational purposes only. <br />
+How you use this program is your responsibility. <br />
 <br />
 I will not be held accountable for any illegal activities.
 
