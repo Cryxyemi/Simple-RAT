@@ -1,5 +1,6 @@
 # Simple-RAT
-A RAT with a few functions <br />
+A RAT with a few functions
+<br />
 ![Simple Rat](https://user-images.githubusercontent.com/113242324/194132365-a401e28b-d5ff-4fb9-af88-d1164f1a09b7.png)
 
 ## ⚠ Disclaimer ⚠ 
