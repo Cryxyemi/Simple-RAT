@@ -9,7 +9,7 @@ I will not be held accountable for any illegal activities.
 
 ## ❓ Info ❓
 Simple RAT is a Remote Access Tool that use Pycord to control remotely a pc. <br />
-The finished exe are getting ~36 mb i recommend to use Anonfiles.com or Mega.nz to upload files
+The finished exe are getting large i recommend to use Anonfiles.com or Mega.nz to upload files
 
 ## ⚙ Setup ⚙
 
