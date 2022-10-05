@@ -22,10 +22,6 @@ The finished exe are getting large i recommend to use Anonfiles.com or Mega.nz t
 5.2. Change BotToken to your bot token <br />
 5.3. Change GuildId to your server you created
 6. Save and exit
-7. Go to the build exe.bat and change PythonPath to your python (if you cant find it look in the picture, for example <br /> C:\User\Human\AppData\Local\Programs\Python\Python310\python.exe)
-![image](https://user-images.githubusercontent.com/113242324/194120404-65194d25-8e17-47c5-8a5e-ff3fa42ed389.png)
-8. Save and exit
-9. Run the build exe.bat
 
 ## ✅ Features ✅
 1. Popup message
