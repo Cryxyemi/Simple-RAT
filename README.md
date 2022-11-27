@@ -29,10 +29,9 @@ Simple RAT is a Remote Access Tool that use Pycord to control remotely a pc
 2. Text-to-spreech
 3. Screenshot
 4. Pc infos
-5. Grab token (credits: https://github.com/ilylunar/Hazard-Token-Grabber-V2)
-6. Open link
-7. Add to startup
-8. Clear the chat (if the chat is to messy)
-9. Setup webhook
-10. Set the bot status
-11. Pc id system (if you use the bot for multiple pcs)
+5. Open link
+6. Add to startup
+7. Clear the chat (if the chat is to messy)
+8. Setup webhook
+9. Set the bot status
+10. Pc id system (if you use the bot for multiple pcs)
