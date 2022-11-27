@@ -10,7 +10,7 @@ How you use this program is your responsibility. <br />
 I will not be held accountable for any illegal activities.
 
 ## ❓ Info ❓
-Simple RAT is a Remote Access Tool that use Pycord to control remotely a pc
+Simple RAT is a Remote Access Trojan that use Pycord to control remotely a pc
 
 ## ⚙ Setup ⚙
 
